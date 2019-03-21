@@ -104,6 +104,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [How to Test on Headless Emulators and Simulators with Appium](https://appiumpro.com/editions/58)
 - [How to Automate Picker Wheel Controls](https://appiumpro.com/editions/59)
 - [How to Pick the Right Locator Strategy](https://appiumpro.com/editions/60)
+- [How to Accurately Select Webviews Using the `fullContextList` Capability](https://appiumpro.com/editions/61)
 
 ## Tutorials
 - [TOOLSQA](http://toolsqa.com/mobile-automation/appium/appium-tutorial/) - Appium tutorial for beginners (Android & iOS).
